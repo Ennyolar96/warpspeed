@@ -17,7 +17,7 @@ These instructions will help you set up and run the project on your local machin
 
    ```bash
    git clone https://github.com/Ennyolar96/warpspeed.git
-   cd your-repo
+   cd warpspeed
    ```
 
 2. Install the dependencies:
